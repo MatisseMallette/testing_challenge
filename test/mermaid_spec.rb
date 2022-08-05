@@ -1,6 +1,6 @@
 # mermaid_spec.rb
 require 'rspec'
-require './lib/mermaid'
+require './lib/mermaid.rb'
 
 describe Mermaid do
   it 'is an instance of mermaid' do
